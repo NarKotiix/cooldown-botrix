@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Kick Roulette Cooldown via Pusher (par chaîne)
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @description  Timer de cooldown pour !roulette avec réponse Botrix, stockage par chaîne + logs console sur Kick.com
 // @author       GPT
 // @match        https://kick.com/*
 // @grant        none
+// @updateURL    https://github.com/NarKotiix/cooldown-botrix/raw/refs/heads/main/cooldown-botrix.user.js
+// @downloadURL  https://github.com/NarKotiix/cooldown-botrix/raw/refs/heads/main/cooldown-botrix.user.js
 // ==/UserScript==
 
 (function () {
